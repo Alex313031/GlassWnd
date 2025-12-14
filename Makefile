@@ -1,4 +1,4 @@
-# xp_activate32 MAKEFILE for compiling under MSYS2 MinGW32
+# GlassWnd MAKEFILE for compiling under MinGW32
 
 # Compiler and tools
 CC       := i686-w64-mingw32-gcc
